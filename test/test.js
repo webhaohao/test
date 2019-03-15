@@ -4,4 +4,4 @@ function buryingPoint(){
     this.userEvent='';
     this.childrenNode="123";
     this.newName="branch";
-}_
+}
