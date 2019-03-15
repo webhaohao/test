@@ -3,5 +3,10 @@ function buryingPoint(){
     this.userDevice=device;
     this.userEvent='';
     this.childrenNode="123";
-    this.newName="branch12";
+<<<<<<< HEAD
+    this.newName="branch";
 }_
+=======
+    this.newName="branch";
+}
+>>>>>>> feature1
