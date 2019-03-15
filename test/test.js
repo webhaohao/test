@@ -3,4 +3,5 @@ function buryingPoint(){
     this.userDevice=device;
     this.userEvent='';
     this.childrenNode="123";
+    this.newName="branch";
 }_
